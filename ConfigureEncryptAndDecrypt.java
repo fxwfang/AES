@@ -1,4 +1,4 @@
-package cn.com.agree.aweb.sm4;
+package com.aes;
 
 public class ConfigureEncryptAndDecrypt {
 	public static final String CHAR_ENCODING = "UTF-8";

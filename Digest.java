@@ -1,4 +1,4 @@
-package cn.com.agree.aweb.sm4;
+package com.aes;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
